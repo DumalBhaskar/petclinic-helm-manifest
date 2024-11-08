@@ -13,7 +13,7 @@ service:
   targetPort: 8080
 
 ingress:
-  enabled: true
+  enabled: false
   scheme: internet-facing
   targetType: ip
-  host: petclinic.jonathanjo.great-site.net
+  host: petclinic.zomato.infinityfreeapp.com
