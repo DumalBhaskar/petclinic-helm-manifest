@@ -2,7 +2,7 @@ replicaCount: 2
 
 image:
   repository: 533267075370.dkr.ecr.ap-south-1.amazonaws.com/petclinic
-  tag: "21"
+  tag: "9-6eafa37"
   pullPolicy: IfNotPresent
 
 #imagePullSecrets: ecr-secret
