@@ -4,7 +4,7 @@ helm:
     value: 533267075370.dkr.ecr.ap-south-1.amazonaws.com/petclinic
     forcestring: false
   - name: image.tag
-    value: " 9-6eafa37"
+    value: "9-6eafa37"
     forcestring: true
   - name: replicaCount
     value: "1"
