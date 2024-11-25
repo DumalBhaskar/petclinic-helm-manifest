@@ -1,7 +1,7 @@
 replicaCount: 2
 
 image:
-  repository: 533267075370.dkr.ecr.ap-south-1.amazonaws.com/petclinic
+  repository: 533267075370.dkr.ecr.us-west-2.amazonaws.com/petclinic
   tag: "1"
   pullPolicy: IfNotPresent
 
