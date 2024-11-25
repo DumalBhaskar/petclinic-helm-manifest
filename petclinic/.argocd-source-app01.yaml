@@ -1,0 +1,8 @@
+helm:
+  parameters:
+  - name: image.name
+    value: 533267075370.dkr.ecr.us-west-2.amazonaws.com/petclinic
+    forcestring: true
+  - name: image.tag
+    value: "2"
+    forcestring: true
